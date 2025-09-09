@@ -1,4 +1,4 @@
-#Nicolás Iregui Forero
+
 #1
 #Escribir un programa en Java que imprima por pantalla la frase “Hola, ya se imprimir frases”.
 print ("Hola, ya se imprimir frases")
